@@ -71,5 +71,10 @@ There are 576 total players and most of the players identified as male (84%). Th
 >MaxU. (2020, November 29). *Why does my Pandas DataFrame not display new order using \`sort_values\`?*. Stack Overflow. https://stackoverflow.com/questions/42613581/why-does-my-pandas-dataframe-not-display-new-order-using-sort-values
 
 **Un-index a column**
->behzad.nouri. (2020, December 6). *How to convert index of a pandas dataframe into a column?*. 
+>behzad.nouri. (2020, December 6). *How to convert index of a pandas dataframe into a column?*. Stack Overflow. https://stackoverflow.com/questions/20461165/how-to-convert-index-of-a-pandas-dataframe-into-a-column
 
+**Formatting issues in GitHub**
+>Zucker, J. (2020, December 6). *Use display() not print() to display a dataframe in a jupyter notebook!*. GitHub. https://github.com/swcarpentry/python-novice-gapminder/issues/342
+>> *I tried the suggestion from this post to get the DataFrames to display correctly in GitHub, but it didn't work.*
+
+>Akhmetzhanov, A. (2020, December 6). *Pandas DataFrame not printing correctly*. GitHub. https://github.com/jupyter/notebook/issues/4357
