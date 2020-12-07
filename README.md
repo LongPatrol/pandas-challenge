@@ -7,6 +7,13 @@ There are 576 total players and most of the players identified as male (84%). Th
 ## Results
 
 Total Players:
+
 ![Total Players Dataframe](https://github.com/LongPatrol/pandas-challenge/blob/main/Total_Players_dataframe.png)
 
 Total Purchasing Analysis:
+
+![Total Purchasing Analysis](https://github.com/LongPatrol/pandas-challenge/blob/main/Total_Purchase_analysis_dataframe.png)
+
+Players by Gender:
+
+![Players by Gender](https://github.com/LongPatrol/pandas-challenge/blob/main/Players_by_Gender.png)
