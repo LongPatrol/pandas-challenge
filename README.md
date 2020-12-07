@@ -5,7 +5,7 @@ In this challenge we are analyzing data from a video game's optional item sales.
 There are 576 total players and most of the players identified as male (84%). There are 66% of the players between the ages of 15 and 24. Those in the (20-24) age bracket average purchases that are $0.09 more than the (15-19) age bracket. The most popular item (by 3 purchases) is "Oathbreaker, Last Hope of the Breaking Storm".
 
 ## Results
-*The results are also printed with the Jupyter notebook, but there is some formatting error occurring in GitHub. The notebook in GitHub can be viewed via nbviewer on Jupyter's website: https://nbviewer.jupyter.org/ *
+*The results are also printed with the Jupyter notebook, but there is some formatting error occurring in GitHub. The notebook in GitHub can be viewed via nbviewer on Jupyter's website: https://nbviewer.jupyter.org/* 
 
 **Total Players:**
 
@@ -32,7 +32,15 @@ There are 576 total players and most of the players identified as male (84%). Th
 ![Purchasing Analysis by Age Bracket](https://github.com/LongPatrol/pandas-challenge/blob/main/Purchase_analysis_age_bracket.png)
 
 **Top 5 Spenders:**
+
 *"SN" here standing for "Screen Name"*
 
 ![Top Spenders](https://github.com/LongPatrol/pandas-challenge/blob/main/Top_5_spenders.png)
 
+**Popular items (by purchase count):**
+
+![Popularity by count](https://github.com/LongPatrol/pandas-challenge/blob/main/Top_5_items_by_count.png)
+
+**Top items (by revenue generated):**
+
+![Most Profitable Items](https://github.com/LongPatrol/pandas-challenge/blob/main/Top_5_items_by_profit.png)
