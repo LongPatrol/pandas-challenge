@@ -44,3 +44,32 @@ There are 576 total players and most of the players identified as male (84%). Th
 **Top items (by revenue generated):**
 
 ![Most Profitable Items](https://github.com/LongPatrol/pandas-challenge/blob/main/Top_5_items_by_profit.png)
+
+## Coding References
+**Dataframes**
+>pandas. (2020, November 28). *pandas.DataFrame*. pandas. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+
+**Distinct counts**
+>Akshaya, E. (2020, November 28). *How to Count Distinct Values of a Pandas Dataframe Column?*. GeeksforGeeks. https://www.geeksforgeeks.org/how-to-count-distinct-values-of-a-pandas-dataframe-column/
+
+**Adding column to a dataframe**
+>Tyagi, C. (2020, November 28). *Adding new column to existing DataFrame in Pandas*. GeeksforGeeks. https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
+
+**Dropping a column**
+>pandas. (2020, November 28). *pandas.DataFrame.drop*. pandas. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html
+
+**Dropping duplicate records**
+>pandas. (2020, November 28). *pandas.DataFrame.drop_duplicates*. pandas. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop_duplicates.html
+
+**Renaming a column**
+>EdChum. (2020, November 28). *Rename specific column(s) in pandas*. Stack Overflow. https://stackoverflow.com/questions/19758364/rename-specific-columns-in-pandas
+
+**Percentage formatting**
+>kapeli.com. (2020, November 28). *Python Format Strings*. kapeli.com. https://kapeli.com/cheat_sheets/Python_Format_Strings.docset/Contents/Resources/Documents/index
+
+**Fixing sorting bugs**
+>MaxU. (2020, November 29). *Why does my Pandas DataFrame not display new order using \`sort_values\`?*. Stack Overflow. https://stackoverflow.com/questions/42613581/why-does-my-pandas-dataframe-not-display-new-order-using-sort-values
+
+**Un-index a column**
+>behzad.nouri. (2020, December 6). *How to convert index of a pandas dataframe into a column?*. 
+
